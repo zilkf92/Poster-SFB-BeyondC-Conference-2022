@@ -16,5 +16,8 @@
 #### The press release can be found here
 [Press release from the University of Vienna](https://medienportal.univie.ac.at/media/aktuelle-pressemeldungen/detailansicht/artikel/universitaet-wien-veroeffentlicht-erstmals-online-zugang-zu-photonischer-quantenhardware/)
 
+#### PhotonQ Website
+[PhotonQ](https://photonq.at/)
+
 #### We used the svg poster template from  Quantum Optics Lab Olomouc
 [Original poster template](http://quantum.opticsolomouc.org/archives/1026)
