@@ -1,6 +1,6 @@
 # Poster-SFB-BeyondC-Conference-2022
 
-## This repo contains our poster that we presented at the SFB BeyondC Conference 2022. Our contribution is to provide an online platform for photonic one-way quantum computers, initially in the form of a graphical user interface (GUI) and simulators. This will be followed by hardware resources via programming toolkits.    
+## This repo contains our poster that we presented at the SFB BeyondC Conference 2022. Our contribution is to provide an online platform for photonic one-way quantum computers, initially in the form of a graphical user interface (GUI) and simulators. This will be followed by hardware resources and programming toolkits.    
 
 ### ***Poster Abstract***
 #### Various quantum systems have become accessible via the internet, e.g., IBM's superconducting devices. Current hardware implements circuit-based models, annealers, or continuous-variable computing systems. The discrete-variable one-way model of quantum computing is of special interest in photonic systems, although not limited to them. Quantum processors based on this model are not yet available to users. Here, we assess (1) access, (2) applications, (3) software, and (4) benchmarking for an online-accessible photonic one-way quantum computer implementation.    
